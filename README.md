@@ -1,10 +1,10 @@
 # MonthName.java
 
-class MonthName
-{
-	String month_Str;
-	public static void main(String[] args)
-	{
+		class MonthName
+		{
+			String month_Str;
+		public static void main(String[] args)
+		{
 		MonthName m = new MonthName();
 		System.out.println( "Month 1: " + m.month_name(1) );
    		System.out.println( "Month 2: " + m.month_name(2) );
